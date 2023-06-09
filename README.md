@@ -2,11 +2,13 @@
 
 A simple API to fetch news articles from the [gNews](https://gnews.io) API.
 
-## Installation
+## Setup
 
 1. Install dependencies: `npm install`
 2. Set your gNews API key as an environment variable in .env file: `API_KEY=your_api_key`
-3. Start the server: `npm start`## Usage
+3. Start the server: `npm start`
+
+## Usage
 
 The API has three endpoints:
 
